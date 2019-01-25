@@ -8,8 +8,6 @@ package hitungluas;
 import java.util.Scanner;
 
 /**
- *
- * @author Tiorizky
  */
 public class HitungLuas {
 
