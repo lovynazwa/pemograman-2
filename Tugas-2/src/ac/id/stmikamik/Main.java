@@ -16,6 +16,15 @@ public class Main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Circle tahu = new Circle("Tahu Bulat", 2.5);
+        
+        System.out.println("Nama Benda: " + tahu.getName());
+        System.out.println("Luasnya: " + tahu.getArea());
+        
+        Rectangle papan = new Rectangle("Tempe", 12, 4.3);
+        
+        System.out.println("Nama Benda: " + papan.getName());
+        System.out.println("Luasnya: " + papan.getArea());
     }
     
 }
